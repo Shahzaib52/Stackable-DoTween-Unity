@@ -6,7 +6,7 @@ If you are like me who prefer seeing stuff happening in the Unity inspector and 
 
 As the name suggests, this handy utility helps you run multiple tweens on an object without having you to dive into the code.
 
-![Start Screen](Preview/preview.png)
+![Start Screen](Preview/preview.png | width: 100px)
 
 I have tried to keep the code as much clean and readable as possible so anyone can easily understand the code and expand the funtionality to fit their need.
 comes bundled with 4 commonly used tweens that you can just add as components on a gameobject and tweak with parameters to get desired results.
